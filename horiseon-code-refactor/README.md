@@ -12,7 +12,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 [Link to the deployed website]
 
-[Link to the code repository]
+[Link to the code repository](git@github.com:Ayotheman12/horiseon66.git)
 
 
 ![screenshot of index.html](./assets/images/screenshot.png)
